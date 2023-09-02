@@ -1,0 +1,23 @@
+{
+    "id": 1,
+    "email": "example@email.com",
+    "hashed_password": "hashedexamplepassword123",
+    "is_active": true,
+    "creation_date": "2023-09-03T14:08:23",
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Task Title",
+            "description": "Task Description",
+            "owner_id": 1,
+            "creation_date": "2023-09-03T15:08:23"
+        },
+        {
+            "id": 2,
+            "title": "Another Task Title",
+            "description": "Another Task Description",
+            "owner_id": 1,
+            "creation_date": "2023-09-03T16:08:23"
+        }
+    ]
+}
